@@ -1,0 +1,1 @@
+def get_atm_strike(ticker, price): return round(price / 100) * 100
